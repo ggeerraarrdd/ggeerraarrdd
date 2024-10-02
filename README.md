@@ -6,7 +6,9 @@ Hello 🌎, and welcome to my coding portfolio! 👋
 
 If you'd like to see some walkthroughs and screenshots, head over to [https://ggeerraarrdd.github.io/](https://ggeerraarrdd.github.io/)!
 
-## Application Programming
+## Index
+
+### 🎛️ Application Programming
 
 * [`Geofinder`](https://github.com/ggeerraarrdd/geofinder) – an online game that's like "Where's Waldo?" but for houses
 * [`Portfoliofy`](https://github.com/ggeerraarrdd/portfoliofy) – a RESTful API to generate portfolio-ready screenshots of your awesome web projects
@@ -15,20 +17,20 @@ If you'd like to see some walkthroughs and screenshots, head over to [https://gg
 * [`VRTechnologies`](https://github.com/ggeerraarrdd/vacation) - an Information System for data sourcing, data quality assurance and business intelligence
 * [`Shelfie!`](https://github.com/ggeerraarrdd/shelfie) - a library management system using TKinter in Python
 
-## Analytical Programming
+### 📊 Analytical Programming
 
 * [`Camp Data`](https://github.com/ggeerraarrdd/geofinder) — a repository of Jupyter notebooks for select Python projects from DataCamp
 
-## Database Design and Programming
+### 🗄️ Database Design and Programming
 
 * [`Public Art API`](https://github.com/ggeerraarrdd/public-art) - a planned data portal for public art in Chicago
 * `CS452` — a repository of solutions to problem sets in a graduate course in Database Programming _(not public; available upon request)_
 
-## More
+### 🌱 More
 
 * [`SQL Everyday`](https://github.com/ggeerraarrdd/sql-everyday) - solving one SQL problem a day for a year
 
-## Let's connect
+## 📫 Let's connect
 
 * [LinkedIn](https://www.linkedin.com/in/gerardbullalayao/)
 
