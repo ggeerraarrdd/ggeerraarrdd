@@ -1,10 +1,10 @@
 # CCOODDEESS
 
-![Screenshot](resources/kite.jpg)
-
 Hello 🌎, and welcome to my coding portfolio! 👋
 
 If you'd like to see some walkthroughs and screenshots, head over to [https://ggeerraarrdd.github.io/](https://ggeerraarrdd.github.io/)!
+
+![Screenshot](resources/kite.jpg)
 
 ## Index
 
@@ -30,9 +30,9 @@ If you'd like to see some walkthroughs and screenshots, head over to [https://gg
 
 * [`SQL Everyday`](https://github.com/ggeerraarrdd/sql-everyday) - solving one SQL problem a day for a year
 
-## 📫 Let's connect
+## Let's connect
 
-* [LinkedIn](https://www.linkedin.com/in/gerardbullalayao/)
+* 📫 [LinkedIn](https://www.linkedin.com/in/gerardbullalayao/)
 
 ## Fron­tispiece
 
