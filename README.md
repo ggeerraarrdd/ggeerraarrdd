@@ -19,11 +19,12 @@ If you'd like to see some walkthroughs and screenshots, head over to [https://gg
 
 ### 📊 Analytical Programming
 
-* [`Camp Data`](https://github.com/ggeerraarrdd/geofinder) — a repository of Jupyter notebooks for select Python projects from DataCamp
+* `Camp Data` — a repository of Jupyter notebooks for select Python projects from DataCamp _(to add)_
 
 ### 🗄️ Database Design and Programming
 
 * [`Public Art API`](https://github.com/ggeerraarrdd/public-art) - a planned data portal for public art in Chicago
+* `Global Bike DW` - creating a working data warehouse with w/ Python, SQL and AWS _(to add)_
 * `CS452` — a repository of solutions to problem sets in a graduate course in Database Programming _(not public; available upon request)_
 
 ### 🌱 More
