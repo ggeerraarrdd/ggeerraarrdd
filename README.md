@@ -2,7 +2,9 @@
 
 Hello 🌎, and welcome to my coding portfolio! 👋
 
-If you'd like to see some walkthroughs and screenshots, head over to [https://ggeerraarrdd.github.io/](https://ggeerraarrdd.github.io/)!
+Below is an `Index` of select projects from my graduate studies in Information Systems at DePaul University and from extracurricular activities elsewhere.
+
+If you'd like to see some walkthroughs and lots of screenshots, then head over to [ggeerraarrdd.github.io](https://ggeerraarrdd.github.io/).
 
 ![Screenshot](resources/kite.jpg)
 
@@ -19,7 +21,7 @@ If you'd like to see some walkthroughs and screenshots, head over to [https://gg
 
 ### 📊 Analytical Programming
 
-* `Camp Data` — a repository of Jupyter notebooks for select Python projects from DataCamp _(to add)_
+* `Camp Data` — a repository of Jupyter notebooks for select Data Science projects from DataCamp _(to add)_
 
 ### 🗄️ Database Design and Programming
 
