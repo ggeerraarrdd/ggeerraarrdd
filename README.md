@@ -4,7 +4,7 @@ Hello 🌎, and welcome to my coding portfolio! 👋
 
 Below is an `Index` of select projects from my graduate studies in Information Systems at DePaul University and from extracurricular activities elsewhere.
 
-If you'd like to see some walkthroughs and lots of screenshots, then head over to [ggeerraarrdd.github.io](https://ggeerraarrdd.github.io/).
+If you'd like to see some walkthroughs and lots of screenshots, check out my [Portfolio Website](https://ggeerraarrdd.github.io/).
 
 ![Screenshot](resources/kite.jpg)
 
@@ -25,12 +25,13 @@ If you'd like to see some walkthroughs and lots of screenshots, then head over t
 
 ### 🗄️ Database Design and Programming
 
-* [`Public Art API`](https://github.com/ggeerraarrdd/public-art) - a planned data portal for public art in Chicago
+* [`Public Art API`](https://github.com/ggeerraarrdd/public-art) - a data portal for public art in Chicago
 * `Global Bike DW` - creating a working data warehouse with w/ Python, SQL and AWS _(to add)_
 * `CS452` — a repository of solutions to problem sets in a graduate course in Database Programming _(not public; available upon request)_
 
-### 🌱 More
+## The eevveerryyddaayy Project
 
+* [`eevveerryyddaayy`](https://github.com/ggeerraarrdd/eevveerryyddaayy) - a template repo for documenting daily technical skill-building challenges
 * [`SQL Everyday`](https://github.com/ggeerraarrdd/sql-everyday) - solving one SQL problem a day for a year
 
 ## Let's connect
