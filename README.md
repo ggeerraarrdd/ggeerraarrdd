@@ -31,7 +31,7 @@ If you'd like to see some walkthroughs and lots of screenshots, check out my [Po
 
 ## The eevveerryyddaayy Project
 
-* [`eevveerryyddaayy`](https://github.com/ggeerraarrdd/eevveerryyddaayy) - a template repo for documenting daily technical skill-building challenges
+* [`eevveerryyddaayy-template`](https://github.com/ggeerraarrdd/eevveerryyddaayy-template) and [`eevveerryyddaayy`](https://github.com/ggeerraarrdd/eevveerryyddaayy) - a Github template repository and its documentation for tracking daily technical skill-building challenges
 * [`SQL Everyday`](https://github.com/ggeerraarrdd/sql-everyday) - solving one SQL problem a day for a year
 
 ## Let's connect
