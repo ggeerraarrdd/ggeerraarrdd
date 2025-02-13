@@ -10,13 +10,13 @@ If you'd like to see some walkthroughs and lots of screenshots, check out my [Po
 
 ## 🎛️ Index
 
-* `Geofinder` — an online game that's like "Where's Waldo?" but for houses
-* `Portfoliofy` — a RESTful API to generate portfolio-ready screenshots of your awesome web projects
-* `Landscape Architecture Film Series` — an early aughts basic website recreated with modern tools
-* `LAFSCMS` — a bespoke CMS for the film series website
-* `VRTechnologies` — an Information System for data sourcing, data quality assurance and business intelligence
-* `Shelfie!` — a library management system using TKinter in Python
-* `Public Art API` — a data portal for public art in Chicago
+* [`Geofinder`](https://github.com/ggeerraarrdd/geofinder) – an online game that's like "Where's Waldo?" but for houses
+* [`Portfoliofy`](https://github.com/ggeerraarrdd/portfoliofy) – a RESTful API to generate portfolio-ready screenshots of your awesome web projects
+* [`Landscape Architecture Film Series`](https://github.com/ggeerraarrdd/film-series) - an early aughts basic website recreated with modern tools
+* [`LAFSCMS`](https://github.com/ggeerraarrdd/lafs-cms) - a bespoke CMS for the film series website
+* [`VRTechnologies`](https://github.com/ggeerraarrdd/vacation) - an Information System for data sourcing, data quality assurance and business intelligence
+* [`Shelfie!`](https://github.com/ggeerraarrdd/shelfie) - a library management system using TKinter in Python
+* [`Public Art API`](https://github.com/ggeerraarrdd/public-art) - a data portal for public art in Chicago
 
 ## 📅 The eevveerryyddaayy Project
 
