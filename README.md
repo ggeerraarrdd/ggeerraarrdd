@@ -10,10 +10,10 @@ If you'd like to see some walkthroughs and lots of screenshots, check out my [Po
 
 ## 🎛️ Index
 
-* [`Geofinder`](https://github.com/ggeerraarrdd/geofinder) – an online game that's like "Where's Waldo?" but for houses
-* [`Portfoliofy`](https://github.com/ggeerraarrdd/portfoliofy) – a RESTful API to generate portfolio-ready screenshots of your awesome web projects
-* [`LAFS`](https://github.com/ggeerraarrdd/lafs) - a digital archive for a Landscape Architecture Film Series website from the early aughts
-* [`LAFSCMS`](https://github.com/ggeerraarrdd/lafs-cms) - a bespoke CMS for the film series website
+* [`Geofinder`](https://github.com/ggeerraarrdd/geofinder) - an online game that's like "Where's Waldo?" but for houses
+* [`Portfoliofy`](https://github.com/ggeerraarrdd/portfoliofy) - a RESTful API to generate portfolio-ready screenshots of your awesome web projects
+* [`LAFS-DEV`](https://github.com/ggeerraarrdd/lafs-dev) - an early aughts basic website turned modern dev playground for front-end and back-end skill building
+  * [`LAFS`](https://github.com/ggeerraarrdd/lafs) - a digital archive for a Landscape Architecture Film Series website from the early aughts
 * [`VRTechnologies`](https://github.com/ggeerraarrdd/vacation) - an Information System for data sourcing, data quality assurance and business intelligence
 * [`Shelfie!`](https://github.com/ggeerraarrdd/shelfie) - a library management system using TKinter in Python
 * [`Public Art API`](https://github.com/ggeerraarrdd/public-art) - a data portal for public art in Chicago
