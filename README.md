@@ -6,7 +6,7 @@ Below is an `Index` of select projects from my graduate studies in [Computer Sci
 
 If you'd like to see some walkthroughs and lots of screenshots, check out my [Portfolio Website @ ggeerraarrdd.github.io](https://ggeerraarrdd.github.io/).
 
-![Screenshot](docs/kite.jpg)
+![Screenshot](assets/kite.jpg)
 
 ## 🎛️ Index
 
@@ -15,14 +15,12 @@ If you'd like to see some walkthroughs and lots of screenshots, check out my [Po
 * [`LAFS-DEV`](https://github.com/ggeerraarrdd/lafs-dev) - an early aughts website turned modern dev playground for full-stack, DevOps and system architecture skill-building
   * [`LAFS`](https://github.com/ggeerraarrdd/lafs) - a digital archive for the _Landscape Architecture Film Series_ website from the early aughts
   * [`LAFS-CMS`](https://github.com/ggeerraarrdd/lafs-cms) - a bespoke Content Management System (CMS)
-* [`VRTechnologies`](https://github.com/ggeerraarrdd/vacation) - an Information System for data sourcing, data quality assurance and business intelligence
-* [`Shelfie!`](https://github.com/ggeerraarrdd/shelfie) - a library management system using TKinter in Python
 * [`Public Art API`](https://github.com/ggeerraarrdd/public-art) - a data portal for public art in Chicago
 
 ## 📅 The eevveerryyddaayy Project
 
 * [`eevveerryyddaayy`](https://github.com/ggeerraarrdd/eevveerryyddaayy) - a Github template repository for documenting technical skill-building challenges
-* [`SQL Everyday`](https://github.com/ggeerraarrdd/sql-everyday) - an eevveerryyddaayy project to solve one SQL problem a day for a year
+  * [`SQL Everyday`](https://github.com/ggeerraarrdd/sql-everyday) - an eevveerryyddaayy project to solve one SQL problem a day for a year
 
 ## 📫 Let's connect
 
